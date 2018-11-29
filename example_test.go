@@ -2,7 +2,7 @@ package tarantool_test
 
 import (
 	"fmt"
-	"github.com/tarantool/go-tarantool"
+	"github.com/311devs/go-tarantool"
 	"time"
 )
 

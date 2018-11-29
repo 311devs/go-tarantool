@@ -2,9 +2,9 @@ package queue_test
 
 import (
 	"fmt"
-	"github.com/tarantool/go-tarantool"
+	"github.com/311devs/go-tarantool"
 	"time"
-	"github.com/tarantool/go-tarantool/queue"
+	"github.com/311devs/go-tarantool/queue"
 )
 
 func ExampleConnection_Queue() {

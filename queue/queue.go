@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tarantool/go-tarantool"
+	"github.com/311devs/go-tarantool"
 	msgpack "github.com/311devs/msgpack"
 )
 
