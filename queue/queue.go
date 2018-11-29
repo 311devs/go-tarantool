@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/tarantool/go-tarantool"
-	msgpack "gopkg.in/vmihailenco/msgpack.v2"
+	msgpack "github.com/311devs/msgpack"
 )
 
 // Queue is a handle to tarantool queue's tube

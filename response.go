@@ -2,7 +2,7 @@ package tarantool
 
 import (
 	"fmt"
-	"gopkg.in/vmihailenco/msgpack.v2"
+	"github.com/311devs/msgpack"
 )
 
 type Response struct {

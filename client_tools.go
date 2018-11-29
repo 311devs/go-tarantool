@@ -1,7 +1,7 @@
 package tarantool
 
 import (
-	"gopkg.in/vmihailenco/msgpack.v2"
+	"github.com/311devs/msgpack"
 )
 
 // IntKey is utility type for passing integer key to Select*, Update* and Delete*

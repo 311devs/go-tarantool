@@ -3,7 +3,7 @@ package tarantool_test
 import (
 	"fmt"
 	. "github.com/tarantool/go-tarantool"
-	"gopkg.in/vmihailenco/msgpack.v2"
+	"github.com/311devs/msgpack"
 	"strings"
 	"sync"
 	"testing"

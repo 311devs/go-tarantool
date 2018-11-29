@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"gopkg.in/vmihailenco/msgpack.v2"
+	"github.com/311devs/msgpack"
 	"io"
 	"log"
 	"net"
